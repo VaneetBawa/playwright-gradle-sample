@@ -1,6 +1,8 @@
 # playwright-gradle-sample
 
-**Runner command**
+## Command to run to the project
+
+**bash terminal**
 
 ```js
 gradle test -DLT_USERNAME=your_username -DLT_ACCESS_KEY=your_access_key
